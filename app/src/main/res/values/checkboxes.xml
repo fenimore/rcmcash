@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="one_zero">
+        <item>CTP should be mainstreamed into strategic, contingency and response plans, including human resources, finance, monitoring and evaluation, and resource mobilization systems.</item>
+        <item>The different departments involved in a potential CTP response, particularly Logistics and Finance, should collaborate in preparedness planning, mainstreaming and implementation.</item>
+        <item>Secondary data collection and analysis should be carried out first to provide a general picture of the situation and allow for an initial context analysis.</item>
+        <item>Among the possible scenarios, at least the ‘worst-case scenario’ should be developed, based upon the initial context analysis, and include a first indication of the potential response options.</item>
+        <item>Pre-disaster baselines should include an analysis of key stakeholders, market conditions, service providers’ capacity, community access and preferences, and risks associated with a potential CTP response.</item>
+        <item>A cash feasibility analysis based on the baseline findings, particularly beneficiary preferences, and market and service providers’ capacity should be carried out to identify the response modalities and mechanisms that are more suited to respond to the scenarios developed.</item>
+        <item>A self-assessment exercise should be carried out with the participation of decision-makers from key departments to identify organizational capacity gaps to implement CTP at scale and in a timely manner.</item>
+        <item>A CTP technical working group (TWG) should be established under the leadership of the CTP focal point to overview the development, implementation and monitoring of the preparedness Plan of Action (PoA).</item>
+        <item>The CTP preparedness Plan of Action (PoA) should be multi-annual, budgeted and resourced properly, have clear activities and outputs, and be updated annually.</item>
+        <item>CTP standard operating procedures (SOPs), systems and procedures should be agreed upon, made widely available and updated periodically.</item>
+        <item>Simulations or pilots should be conducted to test the CTP’s operational readiness and should be repeated over time.</item>
+        <item>Internal and external CTP coordination mechanisms must be put in place.</item>
+        <item>CTP should be mainstreamed into the communication strategy and plans.</item>
+        <item>Learning from operations and responses should be captured, and procedures, tools and training materials should be updated as necessary.</item>
+    </string-array>
+    <string-array name="one_stage_one">
+        <item>Secondary data collection and analysis should be carried out first, and should indicate the information gaps to be covered by primary data collection.</item>
+        <item>Baselines should be embedded in annual strategic and contingency plans, and should include an analysis of key stakeholders, market conditions service providers’ capacity, community access and preferences, and risks associated with a potential CTP response.</item>
+        <item>All the secondary and primary data that is gathered should be consolidated and readily accessible in a baseline report.</item>
+        <item>Scenarios should be built upon the context analysis and include a first indication of the potential response options.</item>
+        <item>Among the possible scenarios, at least the ‘worst-case scenario’ should be developed.</item>
+        <item>Advocacy should be part of the preparedness process from its start, and should address internal and external concerns that can create obstacles to a CTP response.</item>
+        <item>The main decision-makers from key departments (disaster management, health, logistics, finance, branch development etc.) should be engaged actively in the CTP preparedness process.</item>
+        <item>A self-assessment should be carried out as a way to identify organizational capacity gaps to implement CTP in time and at scale.Secondary data collection and analysis should be carried out first, and should indicate the information gaps to be covered by primary data collection.</item>
+        <item>Baselines should be embedded in annual strategic and contingency plans, and should include an analysis of key stakeholders, market conditions service providers’ capacity, community access and preferences, and risks associated with a potential CTP response.</item>
+        <item>All the secondary and primary data that is gathered should be consolidated and readily accessible in a baseline report.</item>
+        <item>Scenarios should be built upon the context analysis and include a first indication of the potential response options.</item>
+        <item>Among the possible scenarios, at least the ‘worst-case scenario’ should be developed.</item>
+        <item>Advocacy should be part of the preparedness process from its start, and should address internal and external concerns that can create obstacles to a CTP response.</item>
+        <item>The main decision-makers from key departments (disaster management, health, logistics, finance, branch development etc.) should be engaged actively in the CTP preparedness process.</item>
+        <item>A self-assessment should be carried out as a way to identify organizational capacity gaps to implement CTP in time and at scale.</item>
+    </string-array>
+    <string-array name="one_stage_two">
+        <item>A CTP focal point should be appointed at the beginning of the preparedness process.</item>
+        <item>A CTP Technical Working Group (TWG) made up of representatives from all departments involved in CTP delivery must be established under the leadership of the CTP focal point.</item>
+        <item>The CTP TWG should lead the development of a preparedness Plan of Action (PoA) that includes activities, outputs, indicators, responsibilities, timeframe and budget.</item>
+        <item>The CTP TWG should lead the development of CTP standard operating procedures (SOPs).</item>
+        <item>CTP should be mainstreamed into strategic, contingency and response plans, including human resources, finance, monitoring and evaluation, and resource mobilization.</item>
+        <item>Simulations or pilots should be conducted to test the CTP operational readiness, and should be repeated over time.</item>
+        <item>CTP coordination must take place internally and, also, should involve external stakeholders such as government, donors and other humanitarian agencies.</item>
+        <item>CTP should be mainstreamed into regular communications strategy and plans, particularly into beneficiary communication and accountability systems.</item>
+    </string-array>
+    <string-array name="one_stage_three">
+        <item>The CTP preparedness Plan of Action (PoA) should include activities and resources for review and evaluation.</item> ?>
+        <item>The Terms of Reference (ToR) for the National Society CTP focal point and technical working group (TWG) should include roles and responsibilities related to CTP preparedness, monitoring and evaluation.</item>
+        <item>CTP preparedness should be evaluated through an internal review process led by the National Society focal point and the TWG.</item>
+        <item>CTP preparedness processes and tools should be tested and adapted to local contexts.</item>
+        <item>CTP operations should be evaluated by an external consultant/team.</item>
+        <item>Evaluation reports, case studies and fact sheets should be disseminated internally to Movement partners and externally to other actors and networks.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_prepare"
+            android:title="@string/module_one_title" />
+        <item
+            android:id="@+id/nav_assess"
+            android:title="@string/module_two_title" />
+        <item
+            android:id="@+id/nav_response"
+            android:title="@string/module_three_title" />
+        <item
+            android:id="@+id/nav_implementation"
+            android:title="@string/module_four_title" />
+        <item
+            android:id="@+id/nav_me"
+            android:title="@string/module_five_title" />
+
+
+    </group>
+
+    <group android:id="@+id/Other">
+        <item
+            android:id="@+id/nav_cash"
+            android:title="@string/cash_title" />
+        <item
+            android:id="@+id/nav_voucher"
+            android:title="@string/voucher" />
+
+    </group>
+
+</menu>

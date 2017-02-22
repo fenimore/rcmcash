@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/drawer_nav">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/home_title" />
+        <item
+            android:id="@+id/nav_summary"
+            android:title="@string/summary" />
+    </group>
+    <item
+        android:title="@string/nav_title_checklists">
+        <menu>
+            <group android:id="@+id/drawer_toc">
+                <item
+                    android:id="@+id/nav_roadmap"
+                    android:title="@string/checklist" />
+                <item
+                    android:id="@+id/nav_stage_1"
+                    android:title="@string/mod1_stage1" />
+                <item
+                    android:id="@+id/nav_stage_2"
+                    android:title="@string/mod1_stage2" />
+                <item
+                    android:id="@+id/nav_stage_3"
+                    android:title="@string/mod1_stage3" />
+            </group>
+        </menu>
+    </item>
+</menu>

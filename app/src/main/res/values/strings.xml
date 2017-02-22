@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RC Emergency Toolkit</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_moduleone">Moduleone</string>
+    <string name="module_one_title">Module 1 - Preparedness</string>
+    <string name="module_two_title">Module 2 - Assessment</string>
+    <string name="module_three_title">Module 2 - Response Analysis</string>
+    <string name="module_four_title">Module 4 Implementation</string>
+    <string name="module_five_title"><![CDATA[Module 5 - M & E]]></string>
+    <string name="cash_title">Cash For Work Box</string>
+    <string name="voucher">Voucher Box</string>
+    <string name="rcmcash_title">Cash for Emergency Toolkit</string>
+    <string name="mod1_stage3">Stage 3 - Review, learn and improve</string>
+    <string name="mod1_stage2">Stage 2 - Develop and Implement</string>
+    <string name="mod1_stage1">Stage 1 - Prepare and Analyze</string>
+    <string name="modeul_1_roadmap">Preparedness should allow for the building up of operational readiness for timely and appropriate emergency responses. With good preparedness, cash transfer programing (CTP) responses can be implemented quickly on a large scale. If you have already established general preparedness and contingency plans, you should ensure that these plans take the CTP component into account.  The International Red Cross and Red Crescent Movement (the Movement) CTP Guidelines for mainstreaming and preparedness suggest a process organized into three stages to develop a CTP preparedness Plan of Action (PoA) and strategy. \n\nFor each stage, there is a road map with short guidance, minimum standards, description of sub-steps and existing tools. The sub-steps and tools suggested can be adapted for use in different contexts, by different organizations. When adapting tools to your context and needs, you can find detailed guidance on preparedness from the reference documents suggested at both module and step levels. For each step, minimum standards are suggested to help the practitioner understand what is mandatory throughout the process.</string>
+    <string name="roadmap">Roadmap</string>
+    <string name="home_title">Home</string>
+    <string name="module_overview">Each module is divided in steps and sub-steps. They are indicative and not necessarily sequential. The user may need to move back and forth to reach the intended results. The user may also need to skip some of the steps or sub-steps proposed, due to time and resource constraints that are common in an emergency context.</string>
+    <string name="summary">Summary</string>
+    <string name="checklist">Overview</string>
+    <string name="menu_clear">Clear Checklists</string>
+    <string name="title_activity_module_two">ModuleTwo</string>
+    <string name="m_1_roadmap">Preparedness</string>
+    <string name="mode1_summary">Preparedness Checklist</string>
+    <string name="nav_title_checklists">Checklists</string>
+</resources>
